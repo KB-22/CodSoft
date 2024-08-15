@@ -6,7 +6,7 @@ This repository contains the tasks completed during the CODSOFT Data Science int
 
 1. **Task 1: Titanic Survival Prediction**
    - Predicting the survival of passengers on the Titanic.
-   - [Link to Task 1](./Task1_Titanic_Survival_Prediction)
+   - [Link to Task 1](./Task1.py)
 
 2. **Task 4: Sales Prediction Using Python**
    - Predicting sales based on advertising expenditure.
@@ -14,7 +14,7 @@ This repository contains the tasks completed during the CODSOFT Data Science int
 
 3. **Task 5: Credit Card Fraud Detection**
    - Detecting fraudulent transactions using credit card data.
-   - [Link to Task 5](./Task5_Credit_Card_Fraud_Detection)
+   - [Link to Task 5](./task3.py)
 
 ## Installation
 1. Clone the repository:
