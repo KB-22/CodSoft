@@ -10,7 +10,7 @@ This repository contains the tasks completed during the CODSOFT Data Science int
 
 2. **Task 4: Sales Prediction Using Python**
    - Predicting sales based on advertising expenditure.
-   - [Link to Task 4](./task2)
+   - [Link to Task 4](.task2.py)
 
 3. **Task 5: Credit Card Fraud Detection**
    - Detecting fraudulent transactions using credit card data.
