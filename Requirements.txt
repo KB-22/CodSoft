@@ -1,0 +1,14 @@
+Requirements of libary
+
+
+pandas
+
+seaborn
+
+matplotlib
+
+scikit-learn
+
+numpy
+
+imbalanced-learn
